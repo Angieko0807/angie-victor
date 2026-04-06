@@ -1,7 +1,7 @@
 # angie-victor
 R Practice Session: Collaborating on, Wrangling &amp; Visualizing Data
 ## How to Create a Git Repository from an existing project” and adds the high level steps for this workflow
-Step 1: Owner adds Collaborator to {FIRSTNAME}_test repository
++ hello Step 1: Owner adds Collaborator to {FIRSTNAME}_test repository
 Step 2: Collaborator clones the Owner’s {FIRSTNAME}_test repository
 Step 3: Collaborator edits the README file:
 Collaborator adds a new level 2 heading to README titled “How to Create a Git Repository from an existing project” and adds the high level steps for this workflow
